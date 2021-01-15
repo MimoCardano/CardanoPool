@@ -24,8 +24,7 @@
         "0": "70938e87c9133725dd9ca79e05edcf064d6e6085900a52dd15559c79"
     },
     "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "70938e87c9133725dd9ca79e05edcf064d6e6085900a52dd15559c79"
     },
     "adapools_ext": {
         "prometheus": {
