@@ -3,5 +3,5 @@
 "description": "If you Input your minimum, we will give you our maximum. Go fund with us, support the Community, support MIMO",
 "ticker": "MIMO",
 "homepage": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-"extended": "https://github.com/MimoCardano/CardanoPool/blob/gh-pages/meta_extended.json"
+"extended": "https://raw.githubusercontent.com/MimoCardano/CardanoPool/gh-pages/meta_extended.json"
 }
