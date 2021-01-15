@@ -26,6 +26,9 @@
     "when-satured-then-recommend": {
         "0": "70938e87c9133725dd9ca79e05edcf064d6e6085900a52dd15559c79"
     },
+    "telegram-admin-handle": {
+        "0": "mimoCardanoBot"
+    },
     "adapools_ext": {
         "prometheus": {
             "0": {
