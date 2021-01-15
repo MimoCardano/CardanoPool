@@ -31,12 +31,17 @@
             "0": {
                 "name": "my europe relay",
                 "type": "relay",
-                "key": "3c8d1c5890139e59337d304a98ba72a3"
+                "key": "f12b1a23e879b79de9faaf0af42ecef1"
             },
             "1": {
-                "name": "MimoRelay",
+                "name": "Mimo Relay",
                 "type": "relay",
-                "key": "170f05bf-a740-471d-9e2e-24e44e8f9427"
+                "key": "8b86654704c4c8663af1cd0056eb137e"
+            },
+            "2": {
+                 "name": "Mimo Block Producer",
+                 "type": "bp",
+                 "key": "8b86654704c4c8663af1cd0056eb137e"
             }
         }
     }
