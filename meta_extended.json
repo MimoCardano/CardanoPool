@@ -10,13 +10,12 @@
         },
         "company": {
             "name": "MIMO Cardano",
-            "addr": "Aubrigstrasse",
             "city": "Zurich",
             "country": "Switzerland"
         },
         "about": {
             "me": "IT System Engineer & Software Engineer",
-            "server": "Server Infrastructure with 1000MBit 6000MBit up/down, solar energy. Economic and Powerful",
+            "server": "Swiss Quality - Server Infrastructure with 1000MBit 6000MBit up/down, solar energy. Economic and Powerful",
             "company": "Mimo Cardano"
         }
     },
