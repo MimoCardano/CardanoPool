@@ -27,19 +27,5 @@
     },
     "telegram-admin-handle": {
         "0": "mimoCardanoBot"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "Mimo Relay",
-                "type": "relay",
-                "key": "8b86654704c4c8663af1cd0056eb137e"
-            },
-            "1": {
-                 "name": "Mimo Block Producer",
-                 "type": "bp",
-                 "key": "8b86654704c4c8663af1cd0056eb137e"
-            }
-        }
     }
 }
