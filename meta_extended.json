@@ -4,9 +4,9 @@
         "url_png_logo": "https://github.com/MimoCardano/CardanoPool/blob/gh-pages/Mimo-Logo_50kb.png?raw=true",
         "location": "Zurich, Switzerland",
         "social": {
-            "telegram_handle": "T.me/mimoCardano",
-            "facebook_handle": "https://www.facebook.com/mimo.cardano/",
-            "github_handle": "https://github.com/MimoCardano/CardanoPool"
+            "telegram_handle": "mimoCardano",
+            "facebook_handle": "mimo.cardano",
+            "github_handle": "MimoCardano"
         },
         "company": {
             "name": "MIMO Cardano",
