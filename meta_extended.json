@@ -1,7 +1,7 @@
 { 
     "info": {
-        "url_png_icon_64x64": "https://github.com/MimoCardano/CardanoPool/blob/gh-pages/Mimo-Logo_64x64.png?raw=true",
-        "url_png_logo": "https://github.com/MimoCardano/CardanoPool/blob/gh-pages/Mimo-Logo_50kb.png?raw=true",
+        "url_png_icon_64x64": "https://github.com/MimoCardano/CardanoPool/blob/gh-pages/Mimo-Logo_64x64.png",
+        "url_png_logo": "https://github.com/MimoCardano/CardanoPool/blob/gh-pages/Mimo-Logo_50kb.png",
         "location": "Zurich, Switzerland",
         "social": {
             "telegram_handle": "mimoCardano",
